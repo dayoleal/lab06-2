@@ -1,0 +1,11 @@
+/workspaces/lab06-02/tsua-aplicacao_app/src/main/java/ps2/tsua_aplicacao_app/Main.java
+/workspaces/lab06-02/tsua-aplicacao_app/src/main/java/ps2/tsua_aplicacao_app/Repo.java
+/workspaces/lab06-02/tsua-aplicacao_app/src/main/java/ps2/tsua_aplicacao_app/TsuaAplicacaoAppApplication.java
+/workspaces/lab06-02/tsua-aplicacao_app/src/main/java/ps2/tsua_aplicacao_app/controller/HospedeController.java
+/workspaces/lab06-02/tsua-aplicacao_app/src/main/java/ps2/tsua_aplicacao_app/controller/ReservaController.java
+/workspaces/lab06-02/tsua-aplicacao_app/src/main/java/ps2/tsua_aplicacao_app/model/Hospede.java
+/workspaces/lab06-02/tsua-aplicacao_app/src/main/java/ps2/tsua_aplicacao_app/model/Reserva.java
+/workspaces/lab06-02/tsua-aplicacao_app/src/main/java/ps2/tsua_aplicacao_app/repository/HospedeRepository.java
+/workspaces/lab06-02/tsua-aplicacao_app/src/main/java/ps2/tsua_aplicacao_app/repository/ReservaRepository.java
+/workspaces/lab06-02/tsua-aplicacao_app/src/main/java/ps2/tsua_aplicacao_app/service/HospedeService.java
+/workspaces/lab06-02/tsua-aplicacao_app/src/main/java/ps2/tsua_aplicacao_app/service/ReservaService.java

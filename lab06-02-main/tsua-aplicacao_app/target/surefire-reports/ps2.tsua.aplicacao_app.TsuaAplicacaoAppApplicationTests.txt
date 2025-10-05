@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ps2.tsua.aplicacao_app.TsuaAplicacaoAppApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.967 s -- in ps2.tsua.aplicacao_app.TsuaAplicacaoAppApplicationTests

@@ -1,0 +1,12 @@
+ps2/tsua_aplicacao_app/service/ReservaService.class
+ps2/tsua_aplicacao_app/model/Hospede.class
+ps2/tsua_aplicacao_app/repository/HospedeRepository.class
+ps2/tsua_aplicacao_app/Repo$Registro.class
+ps2/tsua/aplicacao_app/TsuaAplicacaoAppApplication.class
+ps2/tsua_aplicacao_app/model/Reserva.class
+ps2/tsua_aplicacao_app/repository/ReservaRepository.class
+ps2/tsua_aplicacao_app/service/HospedeService.class
+ps2/tsua_aplicacao_app/Main.class
+ps2/tsua_aplicacao_app/controller/ReservaController.class
+ps2/tsua_aplicacao_app/Repo.class
+ps2/tsua_aplicacao_app/controller/HospedeController.class
